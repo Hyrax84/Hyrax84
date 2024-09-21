@@ -17,7 +17,3 @@
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyrvx&theme=radical&no-frame=true)
 
-### Contribution Graph
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
-
-
