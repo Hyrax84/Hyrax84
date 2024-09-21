@@ -1,8 +1,4 @@
-## Hi there 👋
-
-[![hyrvx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyrvx&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-# GitHub Profile (Synthwave Theme)
+# hyrvx.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
 
@@ -11,15 +7,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1d8cd6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
 
-### "Writing code as if it's still 1985 but with WiFi."
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyrvx&layout=compact&theme=radical)
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hyrvx&theme=radical&no-frame=true)
 
 ### Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=hyrvx&theme=react-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
 
 ### Tech Stack
