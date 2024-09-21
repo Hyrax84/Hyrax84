@@ -4,7 +4,7 @@
 
 # GitHub Profile (Synthwave Theme)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
 
 ### Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-ff652f?style=for-the-badge&logo=html5&logoColor=white)
