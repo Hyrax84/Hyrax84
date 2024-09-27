@@ -4,8 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyrvx&show_icons=true&theme=radical)
 
-
-<h1 style="font-family: 'Montserrat', sans-serif; font-weight: 100;">### i torture myself in:</span>
+### i torture myself in:
 ![HTML5](https://img.shields.io/badge/-HTML5-ff652f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d8cd6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
